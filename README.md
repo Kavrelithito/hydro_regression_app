@@ -32,26 +32,28 @@ Each file should:
 
 ---
 
-## 🚀 How to Use
+🚀 How to Use
+To run this project, you’ll need Python and pip installed on your computer (Windows, macOS, or Linux). Run the following commands in your bash terminal (e.g., Git Bash, Terminal, or WSL):
 
 1. Clone the repository
-
-
 bash
-
+Copy
+Edit
 git clone https://github.com/Kavrelithito/hydro_regression_app.git
 cd hydro_regression_app
+2. Install dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3. Launch the app with Marimo
+bash
+Copy
+Edit
+marimo run hydro_regression_app.py
+💡 You can edit and re-run any cell interactively in the browser-based Marimo UI.
 
 
-3. Install dependencies
-
-   pip install -r requirements.txt
-
-4. Launch the app with Marimo
-
-   marimo run hydro_regression_app.py
-
-Tip: You can edit and re-run any cell interactively via the Marimo UI.
 
 ---
 
