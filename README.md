@@ -116,7 +116,8 @@ The hydrological data used here is provided through Sildre by NVE (Norwegian Wat
 ## 🤝 Contributions
 
 Pull requests and feedback are welcome!  
-If you use this app in research or operations, please consider citing or giving a ⭐ on GitHub.
+If you're exploring data-driven lake modeling or want a lightweight regression-based water level predictor, this app is ready to use with your time-series data.
+If you use or build on this for research or operations, please consider citing or giving a ⭐ on GitHub.
 
 ---
 
