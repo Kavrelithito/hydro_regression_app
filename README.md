@@ -1,17 +1,23 @@
 
 # 🔍 Hydrological Time Series Regression App
 
-An interactive Marimo notebook app for loading, merging, analyzing, and modeling hourly hydrological time-series data. Designed for water resource analysts, hydropower engineers, and environmental scientists.
+This app helps you predict lake water levels using inflows from rivers — all using simple regression models in a Marimo notebook.
 
 ---
 
 ## 📦 Features
 
-- 📂 Multi-file loader: Merge multiple time series CSVs into a single hourly-aligned dataset.
-- ❌ Missing value detector: Reports missing timestamps per parameter.
-- 📊 Linear regression using statsmodels with summary statistics.
-- 🧠 Polynomial regression (degree=2) using scikit-learn.
-- 📈 Visualizations: Plots observed vs. predicted values over time.
+📂 Load multiple CSV files and align them by hour
+
+❌ Highlight missing data for each time series
+
+📊 Run linear regression and view summary results
+
+🧠 Try polynomial regression (degree 2) for better fit
+
+📈 Plot actual vs. predicted water levels over time
+
+✅ Built with Marimo — easy to run, edit, and share
 - ✅ Marimo notebook: Editable, executable, and shareable like a Python-powered notebook — but lighter and Git-friendly.
 
 ---
