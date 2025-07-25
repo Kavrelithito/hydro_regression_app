@@ -36,15 +36,18 @@ Each file should:
 
 1. Clone the repository
 
+
+bash
+
 git clone https://github.com/Kavrelithito/hydro_regression_app.git
 cd hydro_regression_app
 
 
-2. Install dependencies
+3. Install dependencies
 
    pip install -r requirements.txt
 
-3. Launch the app with Marimo
+4. Launch the app with Marimo
 
    marimo run hydro_regression_app.py
 
