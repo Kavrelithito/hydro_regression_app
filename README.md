@@ -110,4 +110,7 @@ Created by Netra Timalsina
 
 ## 📷 Screenshots (Optional)
 
-Coming soon — add screenshots or demo GIFs here to show your app in action.
+Demo GIFs here to show your app in action.![Screenshot 2025-07-25 225434](https://github.com/user-attachments/assets/5bff125f-4d82-4e11-9d9f-5848ff520440)
+![Screenshot 2025-07-25 225334](https://github.com/user-attachments/assets/21f618fc-259c-4ba5-9626-ec2ca6048e77)
+![Screenshot 2025-07-25 225259](https://github.com/user-attachments/assets/13bb40c0-1ca0-4012-85c9-355468ded8fb)
+
