@@ -36,7 +36,7 @@ Each file should:
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/hydro-regression-app.git  
+   git clone https://github.com/Kavrelithito/hydro-regression-app.git  
    cd hydro-regression-app
 
 2. Install dependencies
