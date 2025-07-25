@@ -1,0 +1,8 @@
+# Core dependencies
+pandas>=1.5
+matplotlib>=3.6
+statsmodels>=0.13
+scikit-learn>=1.1
+
+# Marimo for interactive notebook
+marimo>=0.14.13
