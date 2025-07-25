@@ -129,7 +129,7 @@ If you use or build on this for research or operations, please consider citing o
 
 ## 👤 Author
 
-Created by Netra Timalsina
+Created by Dr. Netra Timalsina
 
 ---
 
